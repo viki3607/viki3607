@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vivek</h1>
 <h3 align="center">A passionate frontend developer from India.A passionate Software Engineer from India. I am persuing Master of Computer Application from JSU and Bachelor of Computer Application from SVSU. I am very passionate about improving my coding skills & developing applications & websites. I am Working for myself to improve my skills.</h3>
-<img align="right" alt="coding wigth"400"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+<img align="right" alt="coding width="400"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viki3607&label=Profile%20views&color=0e75b6&style=flat" alt="viki3607" /> </p>
 
 - 📫 How to reach me **vivek07bltr@gmail.com**
